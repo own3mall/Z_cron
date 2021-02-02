@@ -1,7 +1,7 @@
 Z Cron
 ===============
 
-* Sets up cron on Android. Tested on Galaxy Nexus 4.4.4. Put the scripts you want to run in the the proper folder (minutely, hourly, or daily).
+* Sets up cron on Android. Tested on the Motorola Photon Q phone running CarbonROM with Android 4.4.4. Put the scripts you want to run in the the proper folder (minutely, hourly, or daily).
 * Just place the Z_cron folder somewhere and run the setup script.
 
 
