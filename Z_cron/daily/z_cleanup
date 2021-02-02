@@ -1,7 +1,0 @@
-#!/system/bin/sh
-
-### Cleans up some stuff on /data ###
-
-rm /data/anr/*;
-
-rm /data/tombstones/*;
